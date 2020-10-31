@@ -32,7 +32,15 @@ $ choco install yarn
 $ yarn global add @vue/cli
 ```
 
-## Project setup
+### Criar o Projeto
+
+```
+$ vue create <nome_do_projeto>
+```
+
+> Selecione a instalação manual e escolha as tecnologias que deseja
+
+## Instalar as dependências
 ```
 yarn install
 ```
